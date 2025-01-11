@@ -1,7 +1,7 @@
 # Game Project
 
 ## Overview
-This is a Java-based game project where players can interact with various game elements such as items, hiding places, and NPCs. The game includes features like walking, interacting, hiding, attacking, and fullscreen mode.
+This is a Java-based game project created at school in groups of 3 where players can interact with various game elements such as items, hiding places, and NPCs. The game includes features like walking, interacting, hiding, attacking, and fullscreen mode.
 
 ## Features
 - **Player Movement**: Move the player using the keyboard.
